@@ -6,7 +6,7 @@
 /*   By: fcamoin <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/12 19:53:33 by fcamoin           #+#    #+#             */
-/*   Updated: 2023/07/15 16:05:53 by fcamoin          ###   ########.fr       */
+/*   Updated: 2023/07/17 16:18:53 by fcamoin          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ char	*ft_strncat(char *dest, char *src, unsigned int nb)
 	unsigned int	i;
 	unsigned int	j;
 
-	j = 0;
+	i = 0;
 	j = 0;
 	while (dest[i])
 		i++;
