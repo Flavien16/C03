@@ -6,11 +6,11 @@
 /*   By: fcamoin <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/12 16:08:02 by fcamoin           #+#    #+#             */
-/*   Updated: 2023/07/15 15:55:50 by fcamoin          ###   ########.fr       */
+/*   Updated: 2023/07/20 11:36:31 by fcamoin          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include<stdio.h>
+#include <stdio.h>
 
 int	ft_strcmp(char *s1, char *s2)
 {
